@@ -1,0 +1,14 @@
+.upcoming {
+  float: left;
+  background-color: purple;
+  width: 30%;
+}
+
+
+
+img {
+  height: 100px;
+  width: auto;
+  float: right;
+  width: 25%;
+}
